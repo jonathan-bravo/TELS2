@@ -1,4 +1,4 @@
-# TELS_analysis
+# TELS2 Analysis
 
 This is an indirect copy, with some changes, of the code found here:
 
