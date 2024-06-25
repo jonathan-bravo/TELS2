@@ -1,0 +1,40 @@
+ACCESSION,CLASS,MGE NAME,ORGANISMS
+IncI1_1_Alpha_AP005147,PLASMID,R64,Salmonella enterica subsp. enterica serovar Typhimurium
+IncFIA_1__AP001918,PLASMID,F,Escherichia coli K-12 
+IncFII(S)_1__CP000858,PLASMID,pSPCV,Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594
+IncY_1__K02380,PLASMID,phage P1,Enterobacteria
+IncFIB(AP001918)_1__AP001918,PLASMID,F,Escherichia coli K-12 
+IncFII_1__AY458016,PLASMID,pC15-1a,Escherichia coli
+IncFIC(FII)_1__AP001918,PLASMID,F,Escherichia coli K-12 
+IncFII(Yp)_1_Yersenia_CP000670,PLASMID,MT,Yersinia pestis Pestoides F 
+IncFIB(S)_1__FN432031,PLASMID,pSLT-BT,Salmonella enterica subsp. enterica serovar Typhimurium
+IncFIB(pHCM2)_1_pHCM2_AL513384,PLASMID,pHCM2,Salmonella enterica subsp. enterica serovar Typhi str. CT18 
+IncFIB(pLF82)_1_pLF82_CU638872,PLASMID,pLF82,Escherichia coli LF82 
+IncFIB(pB171)_1_pB171_AB024946,PLASMID,pB171,Escherichia coli B171 
+IncFII(pHN7A8)_1_pHN7A8_JN232517,PLASMID,pHN7A8,Escherichia coli strain 7A8
+IncFII(pRSB107)_1_pRSB107_AJ851089,PLASMID,pRSB107,Uncultured bacterium 
+IncFII(pSE11)_1_pSE11_AP009242,PLASMID,pSE11-2,Escherichia coli SE11
+IncFII(p14)_1_p14_JQ418538,PLASMID,p14-120,Salmonella sp. 14 
+IncFII(29)_1_pUTI89_CP003035,PLASMID,pCE10A,Escherichia coli O7:K1 str. CE10
+IncFII_1_pSFO_AF401292,PLASMID,pSFO157,Escherichia coli O157:H- 
+IncFII(pAMA1167-NDM-5)_1_pAMA1167-NDM-5_CP024805.1,PLASMID,pAMA1167-NDM-5,Escherichia coli strain AMA1167 
+pSM22_1__NC_015972,PLASMID,pSM22,Serratia marcescens
+Col(VCM04)_1__HM231165,PLASMID,pVCM04,Salmonella enterica subsp. enterica serovar Enteritidis strain PVCM07-2008
+IncI_Gamma_1_AP011954,PLASMID,R621a,Salmonella enterica subsp. enterica serovar Typhimurium
+rep1_8_repE(pWZ909)_GQ484954,PLASMID,pWZ909,Enterococcus faecalis
+rep1_3_repR(pGB354)_U83488,PLASMID,pGB354,Streptococcus agalactiae
+rep1_2_repS(pSM19035)_AY357120,PLASMID,pSM19035,Streptococcus pyogenes
+rep1_5_CDS6(pRE25)_X92945,PLASMID,pRE25,Enterococcus faecalis
+rep1_6_repE(pTEF1)_AE016833,PLASMID,pTEF1,Enterococcus faecalis V583
+rep1_9_repE(pKL0018)_AB290882,PLASMID,pKL0018,Lactococcus garvieae
+rep1_4_repE(pIP816)_AM932524,PLASMID,pIP816,Enterococcus faecium
+rep1_1_repE(pAMbeta)_AF007787,PLASMID,PAM-beta-1,Enterococcus faecalis 
+rep3_2_rep165(pBMB165)_DQ242517,PLASMID,pBMB165,Bacillus thuringiensis serovar tenebrionis 
+repUS2_1_repA(pBI143)_BFU30316,PLASMID,pBI143,Bacteroides fragilis strain IB143
+rep22_1a_repB(pUB110)_X03408,PLASMID,pUB110dB,Staphylococcus aureus
+repUS4_1_repA(pCI2000)_AF178424,PLASMID,pCI2000,Lactococcus lactis
+repUS23_1_repA(SAP099B)_GQ900449,PLASMID,SAP099B,Staphylococcus aureus
+rep10b_1_rep(pUR2355)_JQ312422,PLASMID,pUR2355,Staphylococcus aureus strain C2355 
+rep10b_2_rep(pSK6)_U96610,PLASMID,pSK6,Staphylococcus aureus
+rep10_6_rep(SAP093B)_GQ900442,PLASMID,SAP093B,Staphylococcus aureus
+rep7a_20_SEp203(pSE12228p02)_AE015931,PLASMID,pSE-12228-02,Staphylococcus epidermidis ATCC 12228
